@@ -59,14 +59,3 @@
 
 <!-- CONTACT -->
 
-## Contact
-
-Yehor Dreval
-
--   [Instagram](https://www.instagram.com/freeksons)
--   [Telegram](https://t.me/freekson)
--   [Linkedin](https://www.linkedin.com/in/yehor-dreval-1634b4207/)
-
-Project Link: [React pizza](https://github.com/Freekson/React-Pizza)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
